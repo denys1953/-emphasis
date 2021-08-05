@@ -10,6 +10,8 @@
 #count {
   font-size: 25px;
 }
-input {
+#inp {
   margin-top: 10px;
+  height: 45px;
+  font-size: 25px;
 }
