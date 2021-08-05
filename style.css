@@ -1,0 +1,15 @@
+.wrapper {
+  margin-top: 30px;
+}
+.text {
+  margin-bottom: 10px;
+}
+#inner {
+  font-size: 25px;
+}
+#count {
+  font-size: 25px;
+}
+input {
+  margin-top: 10px;
+}
